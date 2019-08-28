@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Drone",
+    "description": "Get your package within an hour and have it flown in by a drone!",
+    "price": 19.99
+  },
+  {
+    "id": "2",
+    "name": "Express",
+    "description": "The quickest of the normal delivery service",
+    "price": 9.99
+  },
+  {
+    "id": "3",
+    "name": "Standard",
+    "description": "Standard shipping can take up to 4 days",
+    "price": 5.99
+  },
+  {
+    "id": "4",
+    "name": "Pick-up",
+    "description": "Pick it up tomorrow from you local post office",
+    "price": 0
+  }
+]

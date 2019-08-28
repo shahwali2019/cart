@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "price": 6.50,
+    "name": "Greens",
+    "description": "Looking for simple, clean and green? ",
+    "ingredients": [
+    
+      {
+        "name": "apple",
+        "percentage": 50
+      },
+      {
+        "name": "lemon",
+        "percentage": 30
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "price": 6.75,
+    "name": "Citrus",
+    "description": "This enzyme rich juice is filled with phytonutrients and bromelin which helps to reduce inflammation.",
+    "ingredients": [
+ 
+      {
+        "name": "mint",
+        "percentage": 70
+      },
+      {
+        "name": "lemon",
+        "percentage": 60
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "price": 3,
+    "name": "Roots",
+    "description": "Beets help your body to release stomach acid which aids digestion! !",
+    "ingredients": [
+  
+      {
+        "name": "ginger",
+        "percentage": 20
+      },
+      {
+        "name": "lemon",
+        "percentage": 10
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "price": 1.99,
+    "name": "Orange",
+    "description": "Orange juice with a twist to boost you health!",
+    "ingredients": [
+    
+      {
+        "name": "lemon",
+        "percentage": 260
+      },
+      {
+        "name": "apple",
+        "percentage": 250
+      },
+      {
+        "name": "tumeric",
+        "percentage": 710
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "price": 8.50,
+    "name": "Coconut",
+    "description": "Cinnamon lovers - this is your blend! ",
+    "ingredients": [
+      {
+        "name": "Coconut",
+        "percentage": 790
+      },
+      {
+        "name": "water",
+        "percentage": 170
+      }
+    ]
+  }
+]
